@@ -1,0 +1,68 @@
+
+
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family:  'Nunito', sans-serif;;
+
+}
+main, #footer{
+    background-color: #316472b8;
+}
+
+footer{
+    background-color:  #4EB1D2;
+}
+.bg-color-propio{
+    background-color: rgb(13 202 240 / 57%);
+}
+.btn-propio{
+    background-color: rgb(13 202 240 / 57%)!important;
+    border-color:  rgb(13 202 240 / 57%)!important;
+}
+
+.logo{
+    width: 2.5rem;
+    height: 2.5rem;
+
+}
+
+.linea{
+    width: 90%;
+    min-width: 60px;
+    margin:12px 0;
+    border-bottom: 1px solid;
+}
+
+.center
+{ 
+    display: flex;
+    justify-content: center;
+}
+
+.fw-title{
+    font-weight: 700;
+
+}
+
+.fw-p{
+font-weight: 400;
+}
+
+nav, footer{
+    height: 4.5rem;
+}
+
+
+        
+.card-propio{
+    border: 2px solid #a6e6ef !important;
+    border-radius: 6px!important;
+    box-shadow: 0px 10px 13px -7px #000, 5px 5px 15px 5px rgb(13 202 240 / 57%) ;
+}
+
+/* .navbar-toggler{
+    border: #fff,!important;;
+} */
